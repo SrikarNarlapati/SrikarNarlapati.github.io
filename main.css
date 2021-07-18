@@ -1,0 +1,58 @@
+.green-text{
+  color: green;
+font-family:'Comic Sans Ms'
+}
+.blue-text:hover{
+  color: red;
+  font-family: monospace !important;
+}
+
+.navbar{width:80%;
+border-style: solid;
+border-width: 5px;
+font-size: 20pt;
+background-color: white;
+position: fixed;
+}
+
+.first-section{
+
+  background-color: aquamarine;
+font-family: monospace;
+border-color: black;
+border-width: 10pt;
+border-style: double;
+padding: 10px;
+margin: 30px;
+text-align: center;
+font-size: 13pt;
+font-family: "calibri", sans-serif:
+}
+.second-section{
+color: yellow;
+background-color: yellow;
+font-family:impact;
+border-width: 12px;
+border-style: dashed;
+border-color: white;
+text-align: center;
+}
+
+.instagram{
+text-align: center;
+}
+
+.the-facts {
+background-color: aquamarine;
+font-family: 'Monospace';
+border-color:black;
+border-width: 10pt;
+border-style: double;
+font-family: "Calibri",sans-serif:
+font-size: 13pt;
+text-align:center;
+}
+
+body{
+background-color: cadetblue;
+}
