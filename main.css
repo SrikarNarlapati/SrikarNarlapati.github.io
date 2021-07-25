@@ -17,7 +17,7 @@ position: fixed;
 
 .first-section{
 
-  background-color: aquamarine;
+  background-color: cadetblue;
 font-family: monospace;
 border-color: black;
 border-width: 10pt;
@@ -43,11 +43,11 @@ text-align: center;
 }
 
 .the-facts {
-background-color: aquamarine;
+
 font-family: 'Monospace';
 border-color:black;
 border-width: 10pt;
-border-style: double;
+
 font-family: "Calibri",sans-serif:
 font-size: 13pt;
 text-align:center;
