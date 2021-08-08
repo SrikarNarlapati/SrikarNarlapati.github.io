@@ -1,3 +1,3 @@
 function onclic() {
-  alert("hi hi");
+  alert("this is the alert");
 }
